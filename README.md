@@ -34,11 +34,11 @@ These instructions will help you set up and run the project on your local machin
 
 <br>
 <b>
-Prerequisites :
-    Software Requirements:</b>
-        Git
-        A code editor (e.g., VS Code, Sublime Text)
-        A web browser
-   <b> Account Requirements:</b>
+Prerequisites :<br>
+    Software Requirements:</b><br>
+        Git<br>
+        A code editor (e.g., VS Code, Sublime Text)<br>
+        A web browser<br>
+   <b> Account Requirements:</b><br>
         A GitHub account
 
