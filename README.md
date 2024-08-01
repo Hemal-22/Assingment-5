@@ -52,7 +52,7 @@ git config --global user.name “[firstname lastname]”<br>
 <b>set a name that is identifiable for credit when review version history</b><br>
 git config --global user.email “[valid-email]”<br>
 
-<b>Now, SETUP & INITILIZATING your git<b><br>
+<b>Now, SETUP & INITILIZATING your git</b><br>
 <b>Configuring user information, initializing and cloning repositories</b><br>
 <b>initialize an existing directory as a Git repository</b><br>
 git init<br>
