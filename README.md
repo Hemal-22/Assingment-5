@@ -51,7 +51,13 @@ Then SETUP your git by performing below commands<br>
 git config --global user.name “[firstname lastname]”<br>
 <b>set a name that is identifiable for credit when review version history</b><br>
 git config --global user.email “[valid-email]”<br>
-<b>set an email address that will be associated with each history marker</b><br>
-git config --global color.ui auto<br>
+
+<b>Now, SETUP & INITILIZATING your git<b><br>
+<b>Configuring user information, initializing and cloning repositories</b><br>
+<b>initialize an existing directory as a Git repository</b><br>
+git init<br>
+<b>retrieve an entire repository from a hosted location via URL</b></br>
+git clone [url]<br>
+
 
 Author : HEMAL THAKKAR
