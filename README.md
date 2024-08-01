@@ -43,7 +43,7 @@ Prerequisites :<br>
         A GitHub account
 <br>
 <b>
-Installing :<br>
+Installing :<br></b>
 To upload file in git repository you need to first install git and git bash in your system.<br>
 After installation you need to check the version by typing command <i>git --version</i><br>
 Then SETUP your git by performing below commands<br>
