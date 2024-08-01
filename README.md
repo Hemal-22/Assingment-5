@@ -41,4 +41,17 @@ Prerequisites :<br>
         A web browser<br>
    <b> Account Requirements:</b><br>
         A GitHub account
+<br>
+<b>
+Installing :<br>
+To upload file in git repository you need to first install git and git bash in your system.<br>
+After installation you need to check the version by typing command <i>git --version</i><br>
+Then SETUP your git by performing below commands<br>
+<b>Configuring user information used across all local repositories</b><br>
+git config --global user.name “[firstname lastname]”<br>
+<b>set a name that is identifiable for credit when review version history</b><br>
+git config --global user.email “[valid-email]”<br>
+<b>set an email address that will be associated with each history marker</b><br>
+git config --global color.ui auto<br>
 
+Author : HEMAL THAKKAR
