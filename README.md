@@ -25,7 +25,7 @@ Prerequisites :
     Software Requirements:</b><br>
         Git<br>
         A code editor (e.g., VS Code, Sublime Text)<br>
-        A web browser<br>
+        A web browser<br><br>
    <b> Account Requirements:</b><br>
         A GitHub account
 
