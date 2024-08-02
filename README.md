@@ -16,7 +16,8 @@ In this assingment I have perform various queries such as create new column,conc
 
 <b><u>Getting Started : </u></b><br>
 
-These instructions will help you set up and run the project on your local machine for development and testing purposes.<br>
+These instructions will help you set up and run the project on your local machine for development and testing purposes.
+<br>
 <b>
 Prerequisites :<br>
     Software Requirements:</b><br>
@@ -25,6 +26,7 @@ Prerequisites :<br>
         A web browser<br>
    <b> Account Requirements:</b><br>
         A GitHub account
+        
 <br>
 <b>
 Installing :<br></b>
