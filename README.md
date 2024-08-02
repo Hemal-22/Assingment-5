@@ -58,11 +58,6 @@ As such we dont require any deployment for this, but you can use platform like g
 
 <b> License </b>
 
-This project is licensed under the MIT License - see the <a href="[https://www.w3schools.com](https://github.com/Hemal-22/Data-Analysis-Tools/blob/main/LICENSE)">LICENSE</a>
+This project is licensed under the MIT License - see the <a href="https://github.com/Hemal-22/Data-Analysis-Tools/blob/main/LICENSE">LICENSE</a>
 
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
