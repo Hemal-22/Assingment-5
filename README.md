@@ -60,4 +60,10 @@ As such we dont require any deployment for this, but you can use platform like g
 
 This project is licensed under the MIT License - see the <a href="https://github.com/Hemal-22/Data-Analysis-Tools/blob/main/LICENSE">LICENSE.md </a> file for details.
 
+<be>
+
+<b> Acknowledgments </b>
+
+I want to express my gratitude to my professor and college for giving me this opportunity.
+
 
