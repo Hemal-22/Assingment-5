@@ -47,4 +47,11 @@ git init<br>
 <b>retrieve an entire repository from a hosted location via URL</b></br>
 git clone [url]<br>
 
+<br>
+<b> Deployment: </b>
+
+As such we dont require any deployment for this, but you can use platform like google colab and jupyter notebook.
+
+<br>
+
 <b>Author</b> : <i>HEMAL THAKKAR</i>
