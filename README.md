@@ -19,9 +19,9 @@ In this assingment I have perform various queries such as create new column,conc
 These instructions will help you set up and run the project on your local machine for development and testing purposes.
 
 <br>
-
 <b>
-Prerequisites :<br>
+Prerequisites :
+<br>
     Software Requirements:</b><br>
         Git<br>
         A code editor (e.g., VS Code, Sublime Text)<br>
@@ -47,5 +47,4 @@ git init<br>
 <b>retrieve an entire repository from a hosted location via URL</b></br>
 git clone [url]<br>
 
-
-Author : HEMAL THAKKAR
+<b>Author</b> : <i>HEMAL THAKKAR</i>
