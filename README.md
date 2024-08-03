@@ -8,11 +8,11 @@
 
 <b><i>STUDENT ID : 100952558</i></b><br>
 
-<b><u>Project Title : ASSINGMENT 5 BASED ON SALARIES DATASET</u></b><br>
+<b>Project Title </b> : ASSINGMENT 5 <br>
 
 <b><u>Short Description : </u></b><br>
 
-In this assignment I have performed various queries such as create new columns,concate & append data frames,rename & reorder columns, and using clauses like group by, where, and when.<br>
+In this assignment, I have used salaries dataset and performed various queries such as create new columns,concate & append data frames,rename & reorder columns, and using clauses like group by, where, and when.<br>
 
 <b><u>Getting Started : </u></b><br>
 
