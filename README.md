@@ -49,7 +49,7 @@ git clone [url]<br><br>
 
 <b> To upload your file in the GitHub repository, perform the below commands </b><br>
 1. Check the status: git status
-2. Add your file: git add . (this command will add all your files) & you can also type the particular file name (git add <file name>)
+2. Add your file: git add . (this command will add all your files) & you can also type the particular file name (git add <your_file_name>)
 3. Commit your file: git commit -m “[descriptive message]”
 4. Push all your code and files to git: while uploading your code and file for the first time run this command --> git push origin main and after this run this command, git push
 <br><br>
