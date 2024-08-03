@@ -47,6 +47,7 @@ git init<br><br>
 <b>Retrieve an entire repository from a hosted location via URL</b></br>
 git clone [url]<br><br>
 
+<b> Run the commands </b><br>
 <b> To upload your file in the GitHub repository, perform the below commands </b><br>
 1. Check the status: git status
 2. Add your file: git add . (this command will add all your files) & you can also type the particular file name (git add <your_file_name>)
