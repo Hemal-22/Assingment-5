@@ -33,7 +33,7 @@ Prerequisites :
 <b>
 Installing :<br></b>
 To upload a file in the git repository you need first to install git and git bash in your system.<br>
-After installation you need to check the version by typing the command and check the version of your git <b><i>git --version</i></b><br>
+After installation you need to check the version by typing the command and check the version of your git <br><b><i>git --version</i></b><br>
 Then SETUP your git by performing the below commands<br><br>
 <b>Configuring user information used across all local repositories</b><br>
 git config --global user.name “[firstname lastname]”<br><br>
