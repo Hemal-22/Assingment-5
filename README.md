@@ -41,10 +41,10 @@ git config --global user.name “[firstname lastname]”<br><br>
 git config --global user.email “[valid-email]”<br><br>
 
 <b>Now, SETUP & INITIALIZING your git</b><br>
-<b>Configuring user information, initializing and cloning repositories</b><br>
-<b>initialize an existing directory as a Git repository</b><br><br>
-git init<br>
-<b>retrieve an entire repository from a hosted location via URL</b></br>
+<b>Configuring user information, initializing and cloning repositories</b><br><br>
+<b>Initialize an existing directory as a Git repository</b><br>
+git init<br><br>
+<b>Retrieve an entire repository from a hosted location via URL</b></br>
 git clone [url]<br><br>
 
 <b> To upload your file in the GitHub repository, perform the below commands </b><br>
