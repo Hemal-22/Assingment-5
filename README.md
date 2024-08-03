@@ -34,18 +34,18 @@ Prerequisites :
 Installing :<br></b>
 To upload a file in the git repository you need first to install git and git bash in your system.<br>
 After installation you need to check the version by typing the command <i>git --version</i><br>
-Then SETUP your git by performing the below commands<br>
+Then SETUP your git by performing the below commands<br><br>
 <b>Configuring user information used across all local repositories</b><br>
-git config --global user.name “[firstname lastname]”<br>
+git config --global user.name “[firstname lastname]”<br><br>
 <b> Set a name that is identifiable for credit when reviewing version history</b><br>
 git config --global user.email “[valid-email]”<br><br>
 
 <b>Now, SETUP & INITIALIZING your git</b><br>
 <b>Configuring user information, initializing and cloning repositories</b><br>
-<b>initialize an existing directory as a Git repository</b><br>
+<b>initialize an existing directory as a Git repository</b><br><br>
 git init<br>
 <b>retrieve an entire repository from a hosted location via URL</b></br>
-git clone [url]<br>
+git clone [url]<br><br>
 
 <b> To upload your file in the GitHub repository, perform the below commands </b><br>
 1. Check the status: git status
